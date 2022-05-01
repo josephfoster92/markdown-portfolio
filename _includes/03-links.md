@@ -1,1 +1,1 @@
-[GitHub Profile] (https://github.com/josephfoster92)
+[GitHub] (https://github.com/josephfoster92)
